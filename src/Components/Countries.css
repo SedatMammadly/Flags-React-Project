@@ -1,0 +1,21 @@
+.Country-All{
+    width: 90%;
+    margin: 0px auto;
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.Countries{
+    margin: 20px 0px 0px 20px;
+    padding: 10px;
+    border: 1px solid tan;
+}
+.Countries img{
+    width: 300px;
+    height: 200px;
+}  
+.Countries a{
+    text-decoration: none;
+}

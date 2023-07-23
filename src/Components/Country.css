@@ -1,0 +1,41 @@
+.Country{
+    width: 90%;
+    margin: 0px auto;
+    padding: 20px 0px;
+}
+.Country a{
+    text-decoration: none;
+}
+.Country-head{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.Respublic{
+    font-size: 20px;
+    font-weight: 500;
+}
+.accordion{
+    margin-top: 40px;
+}
+.accordion-button:not(.collapsed) {
+  background-color: #fff;
+}
+.accordion-button:focus {
+box-shadow: none;
+}
+.accordion-body{
+display: flex;
+justify-content: center;
+
+}
+.bor{
+    margin-left: 10px;
+}
+.accordion-body img{
+    width: 400px;
+    height: 330px;
+}
+.accordion-body a{
+    margin-left: 10px;
+}

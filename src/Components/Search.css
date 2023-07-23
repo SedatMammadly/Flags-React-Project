@@ -1,0 +1,13 @@
+.search{
+    margin: 10px;
+}
+.search input{
+    width: 200px !important;
+    border-radius:7px 0px 0px 7px !important;
+    border: 1px solid;
+    outline: none;
+}
+.search button{
+border-radius: 0px 7px 7px 0px !important;
+border: 1px solid;
+}

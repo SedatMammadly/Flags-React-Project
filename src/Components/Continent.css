@@ -1,0 +1,10 @@
+.cont button{
+    background-color: #d6d7d4;
+    width: 90px;
+    border: 1px solid #000;
+    border-radius: 7px;
+    margin: 10px 0px 15px 15px;
+}
+.cont button:nth-child(1){
+    background-color: darkgoldenrod;
+}
